@@ -1,0 +1,1 @@
+# Fresh start script for Docker containers
